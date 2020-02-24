@@ -1,1 +1,1 @@
-# myBachelorCodeProject
+Bachelor Project
